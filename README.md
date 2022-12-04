@@ -1,1 +1,1 @@
-# hospital-management-system
+# hospital-management-system JAVA PRACTICE(CORE JAVA, JAVA COLLECTIONS, JAVA 8 CONCEPTS)
